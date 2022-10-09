@@ -1,0 +1,8 @@
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\obj\Debug\urna.csproj.AssemblyReference.cache
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\obj\Debug\urna.csproj.SuggestedBindingRedirects.cache
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\obj\Debug\urna.csproj.CoreCompileInputs.cache
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\bin\Debug\urna.exe.config
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\bin\Debug\urna.exe
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\bin\Debug\urna.pdb
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\obj\Debug\urna.exe
+C:\Users\renna\OneDrive\Área de Trabalho\programação\C#\urna\urna\urna\obj\Debug\urna.pdb
