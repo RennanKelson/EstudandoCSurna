@@ -47,8 +47,8 @@ namespace urna
             }
 
             Console.WriteLine($"Quantidades de votos em Pedro: {primeiroTurno.VotoPedro} ");
-            Console.WriteLine($"Quantidades de votos em Pedro: {primeiroTurno.VotoJoao} ");
-            Console.WriteLine($"Quantidades de votos em Pedro: {primeiroTurno.VotoNulo} ");
+            Console.WriteLine($"Quantidades de votos em João: {primeiroTurno.VotoJoao} ");
+            Console.WriteLine($"Quantidades de votos Nulo(s): {primeiroTurno.VotoNulo} ");
 
             Console.ReadLine();
         }
