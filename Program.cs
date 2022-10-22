@@ -50,6 +50,19 @@ namespace urna
             Console.WriteLine($"Quantidades de votos em João: {primeiroTurno.VotoJoao} ");
             Console.WriteLine($"Quantidades de votos Nulo(s): {primeiroTurno.VotoNulo} ");
 
+            if (primeiroTurno.VotoPedro == primeiroTurno.VotoJoao)
+            {
+                Console.WriteLine("Essa Eleicao foi empate");
+            } 
+            else if (primeiroTurno.VotoPedro > primeiroTurno.VotoJoao)
+            {
+                Console.WriteLine("Pedro esta eleito");
+            }
+            else
+            {
+                Console.WriteLine("Joao esta eleito");
+            }
+
             Console.ReadLine();
         }
     }
